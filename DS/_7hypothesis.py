@@ -1,6 +1,5 @@
 import math
 import DS._6probability as pr
-import matplotlib.pyplot as plt
 
 def normal_appr_to_binomial(n, p):
     mu = p * n
