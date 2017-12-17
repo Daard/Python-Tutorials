@@ -16,8 +16,7 @@ def normal_cdf(x, mu=0, sigma=1):
 
 def inverse_normal_cdf(p, mu=0, sigma=1, tolerance=0.00001):
     if mu != 0 or sigma != 1:
-        return mu + sigma *\
-                    inverse_normal_cdf(p, tolerance=tolerance)
+        return mu + sigma * inverse_normal_cdf(p, tolerance=tolerance)
     low_z = -10.0
     hi_z = 10.0
     while hi_z - low_z > tolerance:
@@ -25,12 +24,10 @@ def inverse_normal_cdf(p, mu=0, sigma=1, tolerance=0.00001):
         mid_p = normal_cdf(mid_z)
         if mid_p < p:
             low_z = mid_z
-            if mid_p < p:
-                low_z = mid_z
-            elif mid_p > p:
-                hi_z = mid_z
-            else:
-                break
+        elif mid_p > p:
+            hi_z = mid_z
+        else:
+            break
     return mid_z
 
 
