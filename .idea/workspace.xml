@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ff2de7c-e537-472f-9ff6-96af7254c620" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/7Exceptions.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/DS/_10getting_data.py" afterPath="$PROJECT_DIR$/DS/_10working_with_data.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DS/10WorkingWithData.ipynb" afterPath="$PROJECT_DIR$/DS/10WorkingWithData.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DS/_4linear_algebra.py" afterPath="$PROJECT_DIR$/DS/_4linear_algebra.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DS/_8gradient.py" afterPath="$PROJECT_DIR$/DS/_8gradient.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,18 +17,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="7Exceptions.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Python/7Exceptions.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="376">
-              <caret line="195" column="11" lean-forward="false" selection-start-line="195" selection-start-column="11" selection-end-line="195" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -50,25 +42,27 @@
         <option value="$PROJECT_DIR$/DS/6probability.py" />
         <option value="$PROJECT_DIR$/DS/8Gradient.py" />
         <option value="$PROJECT_DIR$/DS/6Probability.ipynb" />
-        <option value="$PROJECT_DIR$/DS/8Gradient.ipynb" />
         <option value="$PROJECT_DIR$/Python/6Classes.py" />
         <option value="$PROJECT_DIR$/DS/_7hypothesis.py" />
         <option value="$PROJECT_DIR$/DS/.ipynb_checkpoints/7Hypothesis-checkpoint.ipynb" />
         <option value="$PROJECT_DIR$/DS/_6probability.py" />
         <option value="$PROJECT_DIR$/DS/7Hypothesis.ipynb" />
         <option value="$PROJECT_DIR$/DS/5Statistics.ipynb" />
-        <option value="$PROJECT_DIR$/DS/_4linear_algebra.py" />
         <option value="$PROJECT_DIR$/DS/_10getting_data.py" />
         <option value="$PROJECT_DIR$/DS/9GettingData.ipynb" />
-        <option value="$PROJECT_DIR$/DS/10WorkingWithData.ipynb" />
         <option value="$PROJECT_DIR$/Python/7Exceptions.py" />
+        <option value="$PROJECT_DIR$/DS/_8gradient.py" />
+        <option value="$PROJECT_DIR$/DS/_4linear_algebra.py" />
+        <option value="$PROJECT_DIR$/DS/10WorkingWithData.ipynb" />
+        <option value="$PROJECT_DIR$/DS/_10working_with_data.py" />
+        <option value="$PROJECT_DIR$/DS/8Gradient.ipynb" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="926" />
-    <option name="y" value="23" />
-    <option name="width" value="1068" />
+    <option name="x" value="141" />
+    <option name="y" value="28" />
+    <option name="width" value="1363" />
     <option name="height" value="885" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -98,10 +92,6 @@
               <option name="myItemId" value="tutorials" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -112,11 +102,15 @@
               <option name="myItemId" value="tutorials" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -341,10 +335,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="926" y="23" width="1068" height="885" extended-state="0" />
-    <editor active="true" />
+    <frame x="141" y="28" width="1363" height="885" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27434456" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.190022" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31004903" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -575,17 +568,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DS/_8gradient.py">
+    <entry file="file://$PROJECT_DIR$/Python/example.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DS/_5statistics.py">
+    <entry file="file://$PROJECT_DIR$/Python/7Exceptions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="1" column="31" lean-forward="false" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
+        <state relative-caret-position="329">
+          <caret line="175" column="22" lean-forward="false" selection-start-line="175" selection-start-column="22" selection-end-line="175" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -596,24 +590,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/DS/_5statistics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-554">
+          <caret line="1" column="31" lean-forward="false" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS/_8gradient.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="62" column="89" lean-forward="false" selection-start-line="62" selection-start-column="89" selection-end-line="62" selection-end-column="89" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/DS/_4linear_algebra.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="82" lean-forward="true" selection-start-line="15" selection-start-column="82" selection-end-line="15" selection-end-column="82" />
+        <state relative-caret-position="255">
+          <caret line="17" column="45" lean-forward="false" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DS/_10getting_data.py">
+    <entry file="file://$PROJECT_DIR$/DS/_10working_with_data.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+        <state relative-caret-position="481">
+          <caret line="146" column="59" lean-forward="false" selection-start-line="146" selection-start-column="59" selection-end-line="146" selection-end-column="59" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DS/8Gradient.ipynb">
+    <entry file="file://$PROJECT_DIR$/DS/10WorkingWithData.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="9" />
+          <selected id="19" />
         </state>
       </provider>
     </entry>
@@ -624,26 +638,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DS/10WorkingWithData.ipynb">
+    <entry file="file://$PROJECT_DIR$/DS/8Gradient.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python/example.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python/7Exceptions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="195" column="11" lean-forward="false" selection-start-line="195" selection-start-column="11" selection-end-line="195" selection-end-column="11" />
-          <folding />
+          <selected id="5" />
         </state>
       </provider>
     </entry>
