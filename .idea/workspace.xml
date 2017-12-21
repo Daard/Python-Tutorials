@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ff2de7c-e537-472f-9ff6-96af7254c620" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DS/_10getting_data.py" afterPath="$PROJECT_DIR$/DS/_10working_with_data.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/8Iterator_generators.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DS/10WorkingWithData.ipynb" afterPath="$PROJECT_DIR$/DS/10WorkingWithData.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DS/_4linear_algebra.py" afterPath="$PROJECT_DIR$/DS/_4linear_algebra.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DS/_8gradient.py" afterPath="$PROJECT_DIR$/DS/_8gradient.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,7 +14,28 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file leaf-file-name="6Classes.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python/6Classes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="275" column="0" lean-forward="true" selection-start-line="275" selection-start-column="0" selection-end-line="275" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="8Iterator_generators.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python/8Iterator_generators.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="108" column="16" lean-forward="true" selection-start-line="108" selection-start-column="16" selection-end-line="108" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -56,13 +74,15 @@
         <option value="$PROJECT_DIR$/DS/10WorkingWithData.ipynb" />
         <option value="$PROJECT_DIR$/DS/_10working_with_data.py" />
         <option value="$PROJECT_DIR$/DS/8Gradient.ipynb" />
+        <option value="$PROJECT_DIR$/Python/8Classes_next.py" />
+        <option value="$PROJECT_DIR$/Python/8Iterator_generators.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="141" />
-    <option name="y" value="28" />
-    <option name="width" value="1363" />
+    <option name="x" value="912" />
+    <option name="y" value="37" />
+    <option name="width" value="969" />
     <option name="height" value="885" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -92,6 +112,10 @@
               <option name="myItemId" value="tutorials" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -100,10 +124,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="tutorials" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DS" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -129,25 +149,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.7Exceptions">
-    <configuration default="false" name="4strings_bytes_files" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="tutorials" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4strings_bytes_files.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.8Iterator_generators">
     <configuration default="false" name="5Collections" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -215,6 +217,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="tutorials" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/7Exceptions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="8Iterator_generators" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="tutorials" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/8Iterator_generators.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -302,19 +322,19 @@
       <option name="ipnbPort" value="8888" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.4strings_bytes_files" />
-      <item index="1" class="java.lang.String" itemvalue="Python.5Collections" />
-      <item index="2" class="java.lang.String" itemvalue="Python.6Classes" />
-      <item index="3" class="java.lang.String" itemvalue="Python._7hypothesis" />
-      <item index="4" class="java.lang.String" itemvalue="Python.7Exceptions" />
+      <item index="0" class="java.lang.String" itemvalue="Python.5Collections" />
+      <item index="1" class="java.lang.String" itemvalue="Python.6Classes" />
+      <item index="2" class="java.lang.String" itemvalue="Python._7hypothesis" />
+      <item index="3" class="java.lang.String" itemvalue="Python.7Exceptions" />
+      <item index="4" class="java.lang.String" itemvalue="Python.8Iterator_generators" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.7Exceptions" />
-        <item index="1" class="java.lang.String" itemvalue="Python._7hypothesis" />
-        <item index="2" class="java.lang.String" itemvalue="Python.6Classes" />
-        <item index="3" class="java.lang.String" itemvalue="Python.5Collections" />
-        <item index="4" class="java.lang.String" itemvalue="Python.4strings_bytes_files" />
+        <item index="0" class="java.lang.String" itemvalue="Python.8Iterator_generators" />
+        <item index="1" class="java.lang.String" itemvalue="Python.7Exceptions" />
+        <item index="2" class="java.lang.String" itemvalue="Python._7hypothesis" />
+        <item index="3" class="java.lang.String" itemvalue="Python.6Classes" />
+        <item index="4" class="java.lang.String" itemvalue="Python.5Collections" />
       </list>
     </recent_temporary>
   </component>
@@ -335,9 +355,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="141" y="28" width="1363" height="885" extended-state="0" />
+    <frame x="912" y="37" width="969" height="885" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.190022" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20176083" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31004903" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -365,13 +386,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DS/5Statistics.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python/5Collections.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -532,13 +546,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python/6Classes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="257" column="20" lean-forward="true" selection-start-line="257" selection-start-column="20" selection-end-line="257" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2017.3/python_stubs/-1762178519/math.py" />
     <entry file="file://$PROJECT_DIR$/DS/.ipynb_checkpoints/7Hypothesis-checkpoint.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
@@ -594,7 +601,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-554">
           <caret line="1" column="31" lean-forward="false" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -602,7 +608,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="62" column="89" lean-forward="false" selection-start-line="62" selection-start-column="89" selection-end-line="62" selection-end-column="89" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -610,7 +615,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="45" lean-forward="false" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -618,16 +622,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="481">
           <caret line="146" column="59" lean-forward="false" selection-start-line="146" selection-start-column="59" selection-end-line="146" selection-end-column="59" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DS/10WorkingWithData.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="19" />
         </state>
       </provider>
     </entry>
@@ -642,6 +636,29 @@
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS/10WorkingWithData.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/6Classes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="275" column="0" lean-forward="true" selection-start-line="275" selection-start-column="0" selection-end-line="275" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/8Iterator_generators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="108" column="16" lean-forward="true" selection-start-line="108" selection-start-column="16" selection-end-line="108" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
