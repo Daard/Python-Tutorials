@@ -33,7 +33,7 @@ def safe(f):
 def minimize_batch(target_fn, gradient_fn, theta_0, tolerance=0.000001):
     """Use gradient descent to find theta that minimize target_fn"""
     step_sizes = [100, 10, 1, 0.1, 0.01, 0.001]
-    theta= theta_0
+    theta = theta_0
     target_fn = safe(target_fn)
     value = target_fn(theta)
     while True:
