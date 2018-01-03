@@ -1,10 +1,13 @@
 import math
 
+
 def vector_add(v, w):
     return [vi + wi for vi, wi in zip(v, w)]
 
+
 def vector_substract(v, w):
     return [vi - wi for vi, wi in zip(v, w)]
+
 
 def vector_sum(vectors):
     """sum all corresponding elements"""
@@ -14,11 +17,22 @@ def vector_sum(vectors):
     return result
 
 
+def scalar_multiply(c, v):
+    return [c * v_i for v_i in v]
+
+
+def vector_mean(vectors):
+    n = len(vectors)
+    return scalar_multiply(1/n, vector_sum(vectors))
+
+
 def dot(v, w):
     return sum(vi*wi for vi, wi in zip(v, w))
 
+
 def magnitude(v):
     return math.sqrt(sum([vi ** 2 for vi in v]))
+
 
 def shape(A):
     num_rows = len(A)
